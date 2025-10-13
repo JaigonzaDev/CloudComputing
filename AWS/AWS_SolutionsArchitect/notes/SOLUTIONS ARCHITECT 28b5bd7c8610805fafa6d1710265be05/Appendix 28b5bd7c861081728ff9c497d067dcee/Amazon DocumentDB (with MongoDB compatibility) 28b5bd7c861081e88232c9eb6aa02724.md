@@ -1,0 +1,1 @@
+# Amazon DocumentDB (with MongoDB compatibility)
