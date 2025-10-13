@@ -1,0 +1,3 @@
+# Directory Sync
+
+Utiliza Directory Sync para sincronizar los datos de usuarios y grupos de un directorio externo con tu directorio de Google Cloud. El proceso de sincronización se realiza en la nube, por lo que no hace falta instalar ningún cliente de sincronización ni ningún software on‐premise. Directory Sync es ideal si quieres sincronizar tus datos de Microsoft Active Directory (AD) o Microsoft Azure Active Directory (Azure AD) con la cuenta de Google de tu organización.

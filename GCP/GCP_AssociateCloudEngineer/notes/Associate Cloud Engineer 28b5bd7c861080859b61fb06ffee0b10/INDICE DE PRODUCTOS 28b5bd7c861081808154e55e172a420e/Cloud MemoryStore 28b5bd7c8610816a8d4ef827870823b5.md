@@ -1,0 +1,3 @@
+# Cloud MemoryStore
+
+Memorystore es un servicio de bases de datos completamente administrado que proporciona una versión administrada de tres soluciones populares de almacenamiento en caché de código abierto: Redis, Memcached y Valkey. Las cuatro ofertas de Memorystore son [Memorystore para Redis](https://cloud.google.com/memorystore/docs/redis?hl=es-419), [Memorystore para Redis Cluster](https://cloud.google.com/memorystore/docs/cluster?hl=es-419), [Memorystore para Memcached](https://cloud.google.com/memorystore/docs/memcached?hl=es-419) y [Memorystore para Valkey](https://cloud.google.com/memorystore/docs/valkey?hl=es-419).

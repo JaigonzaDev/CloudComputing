@@ -1,0 +1,4 @@
+# Azure Distributed Denial-of-Service (DDoS) Protection
+
+- **¿Qué es?** Azure DDoS Protection es un servicio que te protege contra los ataques de Denegación de Servicio Distribuido (DDoS). Un ataque DDoS intenta saturar los recursos de una aplicación o servicio con un flujo masivo de tráfico falso, con el objetivo de hacerlos inaccesibles para los usuarios legítimos.
+- **¿Cómo funciona?** Este servicio monitorea el tráfico de tu red y detecta patrones que coinciden con ataques DDoS. Cuando se detecta un ataque, desvía el tráfico malicioso lejos de tus recursos, permitiendo que el tráfico legítimo siga llegando. Actúa como un "paraguas" que absorbe y filtra la tormenta de tráfico.
