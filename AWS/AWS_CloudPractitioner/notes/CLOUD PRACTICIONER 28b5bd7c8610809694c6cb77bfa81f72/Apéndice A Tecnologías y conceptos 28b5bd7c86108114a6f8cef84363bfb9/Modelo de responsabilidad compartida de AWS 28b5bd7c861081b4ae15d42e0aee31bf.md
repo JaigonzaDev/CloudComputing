@@ -6,7 +6,7 @@ https://aws.amazon.com/es/compliance/shared-responsibility-model/
 
 **Responsabilidad del cliente en relación con la "seguridad en la nube":** la responsabilidad del cliente estará determinada por los servicios de la nube de AWS que el cliente seleccione. Esto determina el alcance del trabajo de configuración a cargo del cliente como parte de sus responsabilidades de seguridad.
 
-![Shared_Responsibility_Model.png](Shared_Responsibility_Model.png)
+![Shared_Responsibility_Model.png](Modelo%20de%20responsabilidad%20compartida%20de%20AWS%2028b5bd7c861081b4ae15d42e0aee31bf/Shared_Responsibility_Model.png)
 
 Info relacionada:
 

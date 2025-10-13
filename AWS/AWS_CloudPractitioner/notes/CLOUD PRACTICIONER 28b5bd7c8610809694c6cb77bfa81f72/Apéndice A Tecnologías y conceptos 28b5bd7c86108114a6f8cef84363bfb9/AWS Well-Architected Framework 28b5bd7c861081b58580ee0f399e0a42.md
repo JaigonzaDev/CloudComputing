@@ -17,17 +17,17 @@ Es un conjunto de directrices y buenas prácticas diseñadas para ayudar a los a
 
 ## 6 PILARES
 
-[Excelencia operativa](Excelencia%20operativa%2028b5bd7c861081109f7dd359d974dd15.md)
+[Excelencia operativa](AWS%20Well-Architected%20Framework%2028b5bd7c861081b58580ee0f399e0a42/Excelencia%20operativa%2028b5bd7c861081109f7dd359d974dd15.md)
 
-[Seguridad](Seguridad%2028b5bd7c8610816e845ce2bf501a8ef8.md)
+[Seguridad](AWS%20Well-Architected%20Framework%2028b5bd7c861081b58580ee0f399e0a42/Seguridad%2028b5bd7c8610816e845ce2bf501a8ef8.md)
 
-[Fiabilidad (Realiability)](Fiabilidad%20(Realiability)%2028b5bd7c861081ca93d4de86e6297f22.md)
+[Fiabilidad (Realiability)](AWS%20Well-Architected%20Framework%2028b5bd7c861081b58580ee0f399e0a42/Fiabilidad%20(Realiability)%2028b5bd7c861081ca93d4de86e6297f22.md)
 
-[Eficiencia del rendimiento](Eficiencia%20del%20rendimiento%2028b5bd7c8610815380a8c9f5b6ace685.md)
+[Eficiencia del rendimiento](AWS%20Well-Architected%20Framework%2028b5bd7c861081b58580ee0f399e0a42/Eficiencia%20del%20rendimiento%2028b5bd7c8610815380a8c9f5b6ace685.md)
 
-[Optimización de costes](Optimizaci%C3%B3n%20de%20costes%2028b5bd7c861081f6a01bc83e5b196693.md)
+[Optimización de costes](AWS%20Well-Architected%20Framework%2028b5bd7c861081b58580ee0f399e0a42/Optimizaci%C3%B3n%20de%20costes%2028b5bd7c861081f6a01bc83e5b196693.md)
 
-[Sostenibilidad](Sostenibilidad%2028b5bd7c86108131b428ff14e4924ef7.md)
+[Sostenibilidad](AWS%20Well-Architected%20Framework%2028b5bd7c861081b58580ee0f399e0a42/Sostenibilidad%2028b5bd7c86108131b428ff14e4924ef7.md)
 
 info relacionada:
 
