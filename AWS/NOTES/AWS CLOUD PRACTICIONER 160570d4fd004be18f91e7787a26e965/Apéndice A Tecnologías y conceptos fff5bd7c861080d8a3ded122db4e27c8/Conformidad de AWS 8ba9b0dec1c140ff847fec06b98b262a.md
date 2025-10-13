@@ -1,1 +1,0 @@
-# Conformidad de AWS

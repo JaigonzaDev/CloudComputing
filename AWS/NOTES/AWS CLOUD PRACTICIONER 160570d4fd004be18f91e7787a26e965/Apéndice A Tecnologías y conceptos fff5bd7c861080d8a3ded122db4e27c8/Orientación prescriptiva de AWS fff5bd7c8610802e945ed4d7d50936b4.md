@@ -1,1 +1,0 @@
-# Orientación prescriptiva de AWS

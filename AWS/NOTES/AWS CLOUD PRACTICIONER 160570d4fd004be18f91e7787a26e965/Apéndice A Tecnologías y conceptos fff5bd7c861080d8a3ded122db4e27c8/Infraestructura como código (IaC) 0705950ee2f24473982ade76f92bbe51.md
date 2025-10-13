@@ -1,1 +1,0 @@
-# Infraestructura como código (IaC)
