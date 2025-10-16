@@ -9,8 +9,7 @@ Este repositorio ha sido creado con el objetivo de compartir mis apuntes y recur
 📂 Contenido del Repositorio 
 Todos los apuntes se encuentran organizados en formato Markdown (.md) para una fácil lectura y compatibilidad en cualquier entorno. Puedes navegar por las carpetas para encontrar los temas desglosados.
 
-🧪 Laboratorios 
-Los laboratios que he ido realizando como parte de mi formación:
+🧪 Laboratorios, que he ido realizando como parte de mi formación:
 - [AWS LABS](https://github.com/JaigonzaDev/CloudComputing/blob/main/AWS/AWS_Labs/AWS%20LABS%20COMPLETED%2028e5bd7c8610803b9f3bd06b49a42095.md)
 - [GCP LABS](https://github.com/JaigonzaDev/CloudComputing/blob/main/GCP/GCP_Labs/GCP%20LABS%201ce5bd7c861080aaaf95f1f4d1f0aa91.md)
   
