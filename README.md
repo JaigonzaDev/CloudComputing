@@ -6,10 +6,10 @@
 ✨ ¡Bienvenido/a!
 Este repositorio ha sido creado con el objetivo de compartir mis apuntes y recursos para mi recorrido en Cloud. ¡Espero que te sean de gran ayuda en tu preparación!
 
-📂 Contenido del Repositorio
+📂 Contenido del Repositorio 
 Todos los apuntes se encuentran organizados en formato Markdown (.md) para una fácil lectura y compatibilidad en cualquier entorno. Puedes navegar por las carpetas para encontrar los temas desglosados.
 
-🧪 Laboratorios
+🧪 Laboratorios 
 Aquí encontrarás los enlaces a los laboratios que he ido realizando como parte de mi formación:
 - [AWS LABS](https://github.com/JaigonzaDev/CloudComputing/blob/main/AWS/AWS_Labs/AWS%20LABS%20COMPLETED%2028e5bd7c8610803b9f3bd06b49a42095.md)
 
