@@ -2,11 +2,11 @@
 
 [**Introduction to Amazon Elastic File System (EFS)**](AWS%20LABS%20COMPLETED%2028e5bd7c8610803b9f3bd06b49a42095/Introduction%20to%20Amazon%20Elastic%20File%20System%20(EFS)%2028e5bd7c861080fca6d5c87aed3d836c.md)
 
-[**Maintaining High Availability with Auto Scaling (for Linux)**](AWS%20LABS%20COMPLETED%2028e5bd7c8610803b9f3bd06b49a42095/Maintaining%20High%20Availability%20with%20Auto%20Scaling%20(f%2028e5bd7c8610803b84fcd8a80674ebdb.md)
+[**Maintaining High Availability with Auto Scaling (for Linux)**](AWS%20LABS%20COMPLETED%2028e5bd7c8610803b9f3bd06b49a42095/Maintaining%20High%20Availability%20with%20Auto%20Scaling%20f%2028e5bd7c8610803b84fcd8a80674ebdb.md)
 
 [**Introduction to Amazon EC2**](AWS%20LABS%20COMPLETED%2028e5bd7c8610803b9f3bd06b49a42095/Introduction%20to%20Amazon%20EC2%2028e5bd7c86108076a4a1e22d1129a977.md)
 
-[**Introduction to Amazon Elastic Block Store (Amazon EBS)**](AWS%20LABS%20COMPLETED%2028e5bd7c8610803b9f3bd06b49a42095/Introduction%20to%20Amazon%20Elastic%20Block%20Store%20(Amazon%2028e5bd7c86108046bbebcb77470f0d68.md)
+[**Introduction to Amazon Elastic Block Store (Amazon EBS)**](AWS%20LABS%20COMPLETED%2028e5bd7c8610803b9f3bd06b49a42095/Introduction%20to%20Amazon%20Elastic%20Block%20Store%20Amazon%2028e5bd7c86108046bbebcb77470f0d68.md)
 
 [**Introduction to AWS CloudFormation**](AWS%20LABS%20COMPLETED%2028e5bd7c8610803b9f3bd06b49a42095/Introduction%20to%20AWS%20CloudFormation%2028e5bd7c8610804b8d9ff0c2f6591c37.md)
 
